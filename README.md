@@ -6,7 +6,7 @@
  
 - 🔭 I’m currently working on Science Simulator.
 - 💬 Ask me about my cats.
-- 📫 How to reach me you can't.
+- :email: How to reach me you can't.
 - 😄 Pronouns: He Him His
 - ⚡ Fun fact Cats are better than dogs
 --- 
