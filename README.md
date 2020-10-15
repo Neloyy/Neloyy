@@ -11,7 +11,7 @@
 - ⚡ Fun fact Cats are better than dogs
 --- 
 
-![My_Cats](https://photos.app.goo.gl/XPRZeUD7NZ5znzFM7)
+![My_Cats](https://gyazo.com/e5dc472edca6b3d2a56c08b85d36bed7)
 
 <!--
 **Neloyy/Neloyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
