@@ -1,4 +1,4 @@
-### Hello, What's going on? :
+### Hello, What's going on?
 
 ## About Me
 
